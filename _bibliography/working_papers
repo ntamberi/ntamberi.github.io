@@ -1,3 +1,22 @@
----------------
----------------
+---
+---
 
+@techreport{gasiorek2021trade,
+  title={Trade data statistics},
+  author={Gasiorek, Michael and Tamberi, Nicol{\`o}},
+  year={2021},
+  institution={Department of Economics, University of Sussex Business School Working Paper Series}
+}
+
+@techreport{tamberi2025dynamics,
+  title={The dynamics of the trade elasticity: Evidence from the 2018 US trade war},
+  author={Tamberi, Nicol{\`o}},
+  year={2025},
+  institution={CITP Working Paper}
+}
+
+@techreport{tamberi2025pref,
+  title={Preferential trade agreements under policy uncertainty: theory and evidence from Brexit},
+  author={Tamberi, Nicol{\`o}},
+  year={2025},
+}
