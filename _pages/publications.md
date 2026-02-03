@@ -14,13 +14,11 @@ nav_order: 2
 {% include bib_search.liquid %}
 
 ## Publications
-
 <div class="publications">
-{% bibliography --file papers %}
+  {% bibliography --file papers --query @*[keywords~=published] %}
 </div>
 
 ## Working Papers
-
 <div class="publications">
-{% bibliography --file working_papers %}
+  {% bibliography --file papers --query @*[keywords~=working_paper] %}
 </div>
