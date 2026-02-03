@@ -16,10 +16,10 @@ nav_order: 2
 
 ## Publications
 <div class="publications">
-  {% bibliography --file papers --query "@*[keywords~=published]" %}
+  {% bibliography --file papers --query @*[keywords~=published] %}
 </div>
 
 ## Working Papers
 <div class="publications">
-  {% bibliography --file papers --query "@*[keywords~=working_paper]" %}
+  {% bibliography --file papers --query @*[keywords~=working_paper] %}
 </div>
